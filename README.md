@@ -60,5 +60,4 @@ This app demonstrates how to fetch and display product data from **FakeStore API
 
 ---
 
-### **License**
-This project is licensed under the MIT License.
+
